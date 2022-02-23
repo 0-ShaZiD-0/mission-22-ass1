@@ -1,0 +1,90 @@
+/* Body Styling */
+body{
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0;
+}
+
+/* Navigation Styling */
+nav {
+    background-color: darkred;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: white;
+    display: block;
+    padding: 1em 1em;
+    text-decoration: none;
+}
+
+nav ul li:first-child {
+    margin-right: auto;
+}
+
+nav ul li a:hover {
+    background-color: orangered;
+}
+
+/* Top Banner Styling */
+.top-banner {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 40px;
+    /* padding-top: 50px; */
+}
+
+.banner-text{
+    padding-top: 70px;
+}
+
+.top-headings h1 {
+    font-size: 45px; 
+    font-family: 'Noto Serif Display', serif;
+}
+
+span{
+    color: orangered;
+}
+
+.top-headings{
+    border-left: 2px solid orangered;
+    padding-left: 20px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-weight:bold;
+    padding-top: 10px;
+}
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 80%;
+    padding-left: 50px;
+}
+
+/* Button Style */
+.link-button {
+    text-decoration: none;
+    font-weight: 900;
+    background-image: linear-gradient(coral , crimson);
+    padding: 10px 40px;
+    color: black;
+    border-radius: 10px;
+}
+

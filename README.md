@@ -1,16 +1,16 @@
 
-﻿# Mission - 2022 - Assignment 01 - PHR
+﻿# MISSION-2022
  
  # OverView:
 This is an portofio website made for my personal interest where we can learn how to build a personal portfolio website where we can know a persons focas lessons learnings and allother stuffs.
 
-#TechTicks:
+# TechTicks:
 In this project we have used;
 
   * HTML5
   * CSS3
   
-#SnapShots
+# SnapShots
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/89452288/155360442-8a6dace4-29d9-4e0f-bbd5-68e6497a0b44.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/89452288/155360467-47d1db90-6064-46f5-997c-892dd239620a.png)

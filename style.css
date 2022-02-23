@@ -5,6 +5,10 @@ body{
 }
 
 /* Navigation Styling */
+.logo img{
+    width: 12px;
+}
+
 nav {
     background-color: darkred;
     margin: 0;

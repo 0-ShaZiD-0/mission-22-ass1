@@ -43,6 +43,7 @@ nav ul li a:hover {
     padding-left: 100px;
     padding-right: 40px;
     /* padding-top: 50px; */
+    margin-bottom: 50px;
 }
 
 .banner-text{
@@ -69,6 +70,8 @@ p{
     font-weight:bold;
     padding-top: 10px;
 }
+
+/* Width Styling */
 .half-width{
     width: 50%;
 }
@@ -86,5 +89,56 @@ p{
     padding: 10px 40px;
     color: black;
     border-radius: 10px;
+}
+
+/* Mission Goals Styling */
+
+.mission-section {
+    background-image: url(assets/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.mission-section h1 {
+    margin-top: 20px;
+    text-align: center;
+    color: brown;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.all-missions {
+    display: flex;
+}
+
+.mission-item {
+    height: 500px;
+    width: 950px;
+    margin-left: 80px;
+    margin: 50px;
+    padding: 30px;
+    /* box-shadow: 10px 10px 60px gray; */
+    border-radius: 10px;
+}
+
+.mission-item img{
+    width: 50%;
+}
+
+.missiom-item p {
+    padding: 20px 30px;
+    text-align: justify;
+}
+
+#web-item{
+    background-color:lightpink;
+}
+
+#ml-item{
+    background-color: lightgray;
+}
+
+#blk-item{
+    background-color: antiquewhite;
 }
 

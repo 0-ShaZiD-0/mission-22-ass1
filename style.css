@@ -173,6 +173,17 @@ p{
 
 /* Contuct Form Styling */
 
+.contact-section {
+    padding: 50px;
+    border-radius: 30px;
+    margin-bottom: 80px;
+}
+
+.contact-section h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text],
 select,
@@ -213,19 +224,8 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
     border-radius: 5px;
-    background-color: gray;
+    background-color: lightslategray;
     padding: 20px;
-}
-
-
-.contact-section{
-    padding: 50px;
-    border-radius: 30px;
-}
-
-.contact-section h1{
-    font-size: 40px;
-    text-align: center;
 }
 
 .submit-btn{
@@ -234,5 +234,18 @@ input[type=submit]:hover {
     border-radius: 10px;
     color: black;
     font-weight: bold;
+}
+
+/* Footer Styling */
+
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.footer-text{
+    text-align: center;
 }
 
